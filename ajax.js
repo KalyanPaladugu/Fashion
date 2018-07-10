@@ -13,7 +13,7 @@
   }
 
   //usage:
-  loadJSON("json/data.json", function(text){
+  loadJSON("data.json", function(text){
     let data = JSON.parse(text);
 
     console.log(data);
