@@ -9,7 +9,7 @@ function loadJSON(file, callback) {
   };
   xhr.send();
 }
-loadJSON("resource/data.json", function(text) {
+loadJSON("data.json", function(text) {
 
   let output = JSON.parse(text);
   //console.log(output);
