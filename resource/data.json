@@ -1,16 +1,16 @@
 {
   "jeans": [{
-      "image": "images/Blue Jeans.jpeg",
+      "image": "images/images/Blue Jeans.jpeg",
       "name":"Blue Jeans"
     },
     {
-      "image": "images/MediumSlateBlue Jeans.jpeg",
+      "image": "images/images/MediumSlateBlue Jeans.jpeg",
       "name":"MediumSlateBlue Jeans"
     }, {
-      "image": "images/Navy Jeans.jpeg",
+      "image": "images/images/Navy Jeans.jpeg",
       "name":"Navy Jeans"
      }, {
-      "image": "images/Slate Gray Jeans.jpeg",
+      "image": "images/images/Slate Gray Jeans.jpeg",
       "name":"Slate Gray Jeans"
     } 
   ]
